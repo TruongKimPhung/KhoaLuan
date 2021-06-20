@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/dtu/controller/AdminController.java=UTF-8
+encoding//src/main/java/com/dtu/controller/DangNhapController.java=UTF-8
+encoding//src/main/java/com/dtu/controller/DanhMucController.java=UTF-8
+encoding//src/main/java/com/dtu/controller/GioHangController.java=UTF-8
+encoding//src/main/java/com/dtu/controller/SendGmail.java=UTF-8
+encoding//src/main/java/com/dtu/controller/TrangChuController.java=UTF-8
+encoding//src/main/java/com/dtu/controller/UserController.java=UTF-8
+encoding//src/main/java/com/dtu/view/ExcelDanhMucListReportView.java=UTF-8
+encoding//src/main/java/com/dtu/view/PdfUserListReportView.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/left-dashboard.jsp=UTF-8
